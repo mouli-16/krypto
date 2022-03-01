@@ -1,5 +1,5 @@
 # krypto
-A Dapp on Ethereum blockchain network using smart contract written in solidity. 
+A Dapp on Ethereum blockchain network using smart contract written in solidity. Using krypto we can send and receive ethereum to any account on the network and link the transaction with any GIP
 
 
 ## About
@@ -23,5 +23,6 @@ After cloning the repo,
 ## Display
 <img width="955" alt="image" src="https://user-images.githubusercontent.com/76895801/156122964-9bfb40e8-bf20-431d-914d-269eb1026aaa.png">
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/76895801/156123017-e52930a7-eb42-4097-b27c-5fc42aae11d5.png">
-<img width="940" alt="image" src="https://user-images.githubusercontent.com/76895801/156124305-c504711b-0c1e-443e-b177-76ad839fd4de.png">
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/76895801/156124927-430f3d76-875c-4697-8e22-03727da0b560.png">
+
 
